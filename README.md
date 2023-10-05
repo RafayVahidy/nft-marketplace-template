@@ -39,7 +39,7 @@ event MarketItemCreated (
   uint256 indexed tokenId,
   address seller,
   address owner,
-  uint256 price,
+  uint256 price,1231321231231321
   bool sold
 );
 ```
